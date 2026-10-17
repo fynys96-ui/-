@@ -1,0 +1,1 @@
+استبدل الملفين index.html و app.js في جذر GitHub فقط. اترك products.json وmanifest.json وsw.js وicon.svg كما هي. التقرير يصدر CSV يفتح في Excel. احتفظ بنسخة احتياطية قبل التحديث.
