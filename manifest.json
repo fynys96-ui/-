@@ -1,0 +1,20 @@
+{
+  "name": "جرد البخور",
+  "short_name": "جرد البخور",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f3ee",
+  "theme_color": "#4c2c20",
+  "description": "إدارة مخزون ومبيعات محل البخور بدون إنترنت",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
